@@ -110,9 +110,3 @@ utils.py → Helper functions
 * Real-time video processing
 * Face recognition fundamentals
 * System structuring for maintainability
-
----
-
-## 📷 Demo
-
-(Add screenshots or GIF showing recognition in action)
